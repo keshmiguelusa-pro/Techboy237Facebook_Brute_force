@@ -27,7 +27,7 @@ $ pip install cryptography
 $ pip install mechanize
 $ pip install requests bs4
 $ apt install git
-git clone https://github.com/techboy237cm/Techboy237Facebook_Brute_force4_7B.git
+git clone https://github.com/keshmiguelusa-pro/Techboy237Facebook_Brute_force.git
 ```
 #### RUN SCRIPT
 ```python
